@@ -5,3 +5,5 @@ describe('template spec', () => {
     cy.get('input[name=password]').type(`${"password."}{enter}`) //input password dan klik enter untuk masuk
   })
 })
+
+// nyoba sourcetree git
